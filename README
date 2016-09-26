@@ -1,3 +1,4 @@
+#Simples sem nada apenas docker e elk#
 #1) Clone este repositório
 #2) Coloque seu logs em uma pasta, por exemplo: /CSV/
 #3) No nível do repositório execute: docker-compose up -d
