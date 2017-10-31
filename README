@@ -3,3 +3,6 @@
 #2) Put your records in a folder, for example: / CSV /
 #3) At repository level run: docker-compose up -d
 #4) Be happy and review your logs :)
+
+#5) Teste GIT
+#6) Só pra estragar o padrão
